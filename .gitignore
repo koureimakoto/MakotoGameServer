@@ -1,0 +1,9 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*/compiled
+*.o
+*.a
+*.exe
+*.out
+*cards.c
+client_bin
+server_bin
