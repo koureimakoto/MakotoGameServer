@@ -7,7 +7,7 @@ APRESENTAÇÃO PESSOAL:
 APRESENTAÇÃO:
 
   Estes softwares correspondem ao meu trabalho de conclusão de curso, da Faculdade e como tivesse a permissão
-desenvolver um jogo com diversas tecnologias livres decidi por manter este código livre também.
+desenvolver um jogo com diversas tecnologias livres decidi por manter este código disponível e publico.
 
   
 SOBRE OS SOFTWARE:
